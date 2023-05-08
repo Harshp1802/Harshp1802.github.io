@@ -20,7 +20,7 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <div style="display: flex; align-items: center;">
     <div>
       <p><strong><span style="font-size: 18px;">Nokia Bell Labs</span></i></p>
-      <p><i> Incoming Autonomous System Intern</i></p>
+      <p><i> Incoming Autonomous Systems Intern</i></p>
       <p>Summer 2023</p>
     </div>
   </div>
