@@ -20,7 +20,7 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
     <p style="margin-bottom: 2px;"><i> Incoming Autonomous Systems Intern</i></p>
-    <p>Summer 2023</p>
+    <p><i>Summer 2023</i></p>
   </div>
 </div>
 
@@ -29,7 +29,7 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">SenticNet, NTU Singapore</span></strong></p>
     <p style="margin-bottom: 2px;"><i>Research Intern</i></p>
-    <p style="margin-bottom: 2px;">May 2021 - July 2021</p>
+    <p style="margin-bottom: 2px;"><i>May 2021 - July 2021</i></p>
     <p>Developed a deep multitask learning framework that enhances the performance of Negation Scope Detection using POS tagging as an auxiliary task. Used transformers and neural tensor fusions to leverage the inter‑task correlations. Achieved 5% improvement over the baseline models. <a href="https://harshp1802.github.io/publication/24-09-2021-icdmw21">[ICDMW '21]</a> </p>
   </div>
 </div>
@@ -39,7 +39,7 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Mysuru Consulting Group</span></strong></p>
     <p style="margin-bottom: 2px;"><i>Machine Learning Intern</i></p>
-    <p style="margin-bottom: 2px;">April 2020 - June 2020</p>
+    <p style="margin-bottom: 2px;"><i>April 2020 - June 2020</i></p>
     <p>Employed advanced Recurrent Neural Networks (RNNs), including Bidirectional Long Short-Term Memory networks (LSTMs), to forecast stock market excess returns, empowering clients with valuable insights and investment analysis.</p>
   </div>
 </div>
@@ -49,7 +49,7 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Ernst & Young</span></strong></p>
     <p style="margin-bottom: 2px;"><i>Trainee with the Transaction Advisory Services team</i></p>
-    <p style="margin-bottom: 2px;">December 2019 - January 2020</p>
+    <p style="margin-bottom: 2px;"><i>December 2019 - January 2020</i></p>
     <p>Designed a quantitative model for evaluating an industry’s attractiveness using Porter’s Five Forces Framework and SWOT Analysis.</p>
   </div>
 </div>
