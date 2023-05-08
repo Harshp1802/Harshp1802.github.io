@@ -15,29 +15,29 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 
 ## Experience
 
-### [Nokia Bell Labs](https://www.bell-labs.com/)
-<img src="/harshp1802.github.io/images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left">
-*Position: Incoming Autonomous System Intern*<br>
-*Duration: June 2023 - *
+### Nokia Bell Labs
+<img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left">
+Position: Incoming Autonomous System Intern <br>
+Duration: June 2023 - 
 <br clear="both">
 
-### [SenticNet, NTU Singapore](https://sentic.net/)
-<img src="/harshp1802.github.io/images/senticnet.jpg" alt="SenticNet" width="100px" align="left">
-*Position: Research Intern*<br>
-*Duration: May 2021 - July 2021*<br>
+### SenticNet, NTU Singapore
+<img src="../images/senticnet.jpg" alt="SenticNet" width="100px" align="left">
+Position: Research Intern<br>
+Duration: May 2021 - July 2021<br>
 Developed a deep multitask learning framework that enhances the performance of Negation Scope Detection using POS tagging as an auxiliary task. Used transformers and neural tensor fusions to leverage the inter‑task correlations. Achieved 5% improvement over the baseline models. [ICDMW '21](https://harshp1802.github.io/publication/24-09-2021-icdmw21)
 <br clear="both">
 
-### [Mysuru Consulting Group](https://www.mcg.ai/) (MCG AI) 
-<img src="/harshp1802.github.io/images/mcg-ai.png" alt="MCG AI" width="100px" align="left">
-*Position: Machine Learning Intern*<br>
-*Duration: April 2020 - June 2020*
+### Mysuru Consulting Group
+<img src="../images/mcg-ai.png" alt="MCG AI" width="100px" align="left">
+Position: Machine Learning Intern<br>
+Duration: April 2020 - June 2020
 <br clear="both">
 
-### [Ernst & Young](https://www.ey.com/en_in)
-<img src="/harshp1802.github.io/images/ey.png" alt="EY" width="100px" align="left">
-*Position: Trainee with the Transaction Advisory Services team*<br>
-*Duration: December 2019 - Jan 2020*<br>
+### Ernst & Young
+<img src="../images/ey.png" alt="EY" width="100px" align="left">
+Position: Trainee with the Transaction Advisory Services team<br>
+Duration: December 2019 - Jan 2020<br>
 Designed a quantitative model for evaluating an industry’s attractiveness using Porter’s Five Forces Framework and SWOT Analysis.
 <br clear="both">
 
