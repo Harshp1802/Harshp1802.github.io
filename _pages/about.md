@@ -24,8 +24,6 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   </div>
 </div>
 
-<br clear="both">
-
 <div style="display: flex; align-items: center;">
   <img src="../images/senticnet.jpg" alt="SenticNet" width="100px" align="left" style="margin-right: 20px">
   <div>
@@ -36,8 +34,6 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   </div>
 </div>
 
-<br clear="both">
-
 <div style="display: flex; align-items: center;">
   <img src="../images/mcg-ai.png" alt="MCG AI" width="100px" align="left" style="margin-right: 20px">
   <div>
@@ -47,8 +43,6 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
     <p>Employed advanced Recurrent Neural Networks (RNNs), including Bidirectional Long Short-Term Memory networks (LSTMs), to forecast stock market excess returns, empowering clients with valuable insights and investment analysis.</p>
   </div>
 </div>
-
-<br clear="both">
 
 <div style="display: flex; align-items: center;">
   <img src="../images/ey.png" alt="EY" width="100px" align="left" style="margin-right: 20px">
