@@ -18,8 +18,8 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 <div style="display: flex; align-items: center;">
   <img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left" style="margin-right: 20px">
   <div>
-    <p><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
-    <p><i> Incoming Autonomous Systems Intern</i></p>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
+    <p style="margin-bottom: 2px;"><i> Incoming Autonomous Systems Intern</i></p>
     <p>Summer 2023</p>
   </div>
 </div>
@@ -27,9 +27,9 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 <div style="display: flex; align-items: center;">
   <img src="../images/senticnet.jpg" alt="SenticNet" width="100px" align="left" style="margin-right: 20px">
   <div>
-    <p><strong><span style="font-size: 18px;">SenticNet, NTU Singapore</span></strong></p>
-    <p><i>Research Intern</i></p>
-    <p>May 2021 - July 2021</p>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">SenticNet, NTU Singapore</span></strong></p>
+    <p style="margin-bottom: 2px;"><i>Research Intern</i></p>
+    <p style="margin-bottom: 2px;">May 2021 - July 2021</p>
     <p>Developed a deep multitask learning framework that enhances the performance of Negation Scope Detection using POS tagging as an auxiliary task. Used transformers and neural tensor fusions to leverage the inter‑task correlations. Achieved 5% improvement over the baseline models. <a href="https://harshp1802.github.io/publication/24-09-2021-icdmw21">[ICDMW '21]</a> </p>
   </div>
 </div>
@@ -37,9 +37,9 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 <div style="display: flex; align-items: center;">
   <img src="../images/mcg-ai.png" alt="MCG AI" width="100px" align="left" style="margin-right: 20px">
   <div>
-    <p><strong><span style="font-size: 18px;">Mysuru Consulting Group</span></strong></p>
-    <p><i>Machine Learning Intern</i></p>
-    <p>April 2020 - June 2020</p>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Mysuru Consulting Group</span></strong></p>
+    <p style="margin-bottom: 2px;"><i>Machine Learning Intern</i></p>
+    <p style="margin-bottom: 2px;">April 2020 - June 2020</p>
     <p>Employed advanced Recurrent Neural Networks (RNNs), including Bidirectional Long Short-Term Memory networks (LSTMs), to forecast stock market excess returns, empowering clients with valuable insights and investment analysis.</p>
   </div>
 </div>
@@ -47,9 +47,9 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 <div style="display: flex; align-items: center;">
   <img src="../images/ey.png" alt="EY" width="100px" align="left" style="margin-right: 20px">
   <div>
-    <p><strong><span style="font-size: 18px;">Ernst & Young</span></strong></p>
-    <p><i>Trainee with the Transaction Advisory Services team</i></p>
-    <p>December 2019 - January 2020</p>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Ernst & Young</span></strong></p>
+    <p style="margin-bottom: 2px;"><i>Trainee with the Transaction Advisory Services team</i></p>
+    <p style="margin-bottom: 2px;">December 2019 - January 2020</p>
     <p>Designed a quantitative model for evaluating an industry’s attractiveness using Porter’s Five Forces Framework and SWOT Analysis.</p>
   </div>
 </div>
