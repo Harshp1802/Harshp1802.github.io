@@ -17,17 +17,17 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 
 <div style="display: flex; align-items: center;">
   <img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left" style="margin-right: 20px">
-  <div style="display: flex; align-items: center;">
-    <div>
-      <p><strong><span style="font-size: 18px;">Nokia Bell Labs</span></i></p>
-      <p><i> Incoming Autonomous Systems Intern</i></p>
-      <p>Summer 2023</p>
-    </div>
+  <div>
+    <p><strong><span style="font-size: 18px;">Nokia Bell Labs</span></i></p>
+    <p><i> Incoming Autonomous Systems Intern</i></p>
+    <p>Summer 2023</p>
   </div>
 </div>
 
+<br clear="both">
+
 <div style="display: flex; align-items: center;">
-  <img src="../images/senticnet.jpg" alt="SenticNet" width="100px" height="110px" align="left" style="margin-right: 20px">
+  <img src="../images/senticnet.jpg" alt="SenticNet" width="100px" align="left" style="margin-right: 20px">
   <div>
     <p><strong><span style="font-size: 18px;">SenticNet, NTU Singapore</span></strong></p>
     <p><i>Research Intern</i></p>
