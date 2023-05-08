@@ -15,31 +15,50 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
 
 ## Experience
 
-### Nokia Bell Labs
-<img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left">
-Position: Incoming Autonomous System Intern <br>
-Duration: June 2023 - 
+<div style="display: flex; align-items: center;">
+  <img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left" style="margin-right: 20px">
+  <div style="display: flex; align-items: center;">
+    <div>
+      <p><strong><span style="font-size: 18px;">Nokia Bell Labs</span></i></p>
+      <p><i> Incoming Autonomous System Intern</i></p>
+      <p>Summer 2023</p>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/senticnet.jpg" alt="SenticNet" width="100px" height="110px" align="left" style="margin-right: 20px">
+  <div>
+    <p><strong><span style="font-size: 18px;">SenticNet, NTU Singapore</span></strong></p>
+    <p><i>Research Intern</i></p>
+    <p>May 2021 - July 2021</p>
+    <p>Developed a deep multitask learning framework that enhances the performance of Negation Scope Detection using POS tagging as an auxiliary task. Used transformers and neural tensor fusions to leverage the inter‑task correlations. Achieved 5% improvement over the baseline models. <a href="https://harshp1802.github.io/publication/24-09-2021-icdmw21">[ICDMW '21]</a> </p>
+  </div>
+</div>
+
 <br clear="both">
 
-### SenticNet, NTU Singapore
-<img src="../images/senticnet.jpg" alt="SenticNet" width="100px" align="left">
-Position: Research Intern<br>
-Duration: May 2021 - July 2021<br>
-Developed a deep multitask learning framework that enhances the performance of Negation Scope Detection using POS tagging as an auxiliary task. Used transformers and neural tensor fusions to leverage the inter‑task correlations. Achieved 5% improvement over the baseline models. [ICDMW '21](https://harshp1802.github.io/publication/24-09-2021-icdmw21)
+<div style="display: flex; align-items: center;">
+  <img src="../images/mcg-ai.png" alt="MCG AI" width="100px" align="left" style="margin-right: 20px">
+  <div>
+    <p><strong><span style="font-size: 18px;">Mysuru Consulting Group</span></strong></p>
+    <p><i>Machine Learning Intern</i></p>
+    <p>April 2020 - June 2020</p>
+    <p>Employed advanced Recurrent Neural Networks (RNNs), including Bidirectional Long Short-Term Memory networks (LSTMs), to forecast stock market excess returns, empowering clients with valuable insights and investment analysis.</p>
+  </div>
+</div>
+
 <br clear="both">
 
-### Mysuru Consulting Group
-<img src="../images/mcg-ai.png" alt="MCG AI" width="100px" align="left">
-Position: Machine Learning Intern<br>
-Duration: April 2020 - June 2020
-<br clear="both">
-
-### Ernst & Young
-<img src="../images/ey.png" alt="EY" width="100px" align="left">
-Position: Trainee with the Transaction Advisory Services team<br>
-Duration: December 2019 - Jan 2020<br>
-Designed a quantitative model for evaluating an industry’s attractiveness using Porter’s Five Forces Framework and SWOT Analysis.
-<br clear="both">
+<div style="display: flex; align-items: center;">
+  <img src="../images/ey.png" alt="EY" width="100px" align="left" style="margin-right: 20px">
+  <div>
+    <p><strong><span style="font-size: 18px;">Ernst & Young</span></strong></p>
+    <p><i>Trainee with the Transaction Advisory Services team</i></p>
+    <p>December 2019 - January 2020</p>
+    <p>Designed a quantitative model for evaluating an industry’s attractiveness using Porter’s Five Forces Framework and SWOT Analysis.</p>
+  </div>
+</div>
 
 <!-- A data-driven personal website
 ======
