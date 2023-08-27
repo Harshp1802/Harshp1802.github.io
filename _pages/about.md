@@ -22,7 +22,8 @@ Looking for new grad positions (Jan 2024) - ML Research, Quant, Software Enginee
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
     <p style="margin-bottom: 2px;"><i> Autonomous Systems Research Intern</i></p>
-    <p><i>June 2023 - August 2023</i></p>
+    <p style="margin-bottom: 2px;"><i>June 2023 - August 2023</i></p>
+    <p>Leveraging large language models (LLMs) to enhance Nokia's patent-pending, proprietary MLOps platform for the end-to-end operations of ML-based use cases. Developing innovative task-specific knowledge enrichment strategies, involving automatic retrieval using Langchain and vectorstores, to improve the performance of LLMs in complicated code generation tasks.</p>
   </div>
 </div>
 
