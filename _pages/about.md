@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently a graduate student at the University of California, San Diego, pursuing my Masters in the Department of [Computer Science and Engineering](https://cse.ucsd.edu/). Prior to joining UCSD, I successfully completed my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My research interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
 
-I have a keen interest in a diverse range of areas including Deep Learning, Natural Language Processing, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision, Network Science. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
+I have a keen interest and have pursued projects in a diverse range of areas including Natural Language Processing, Applied ML, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision, Network Science. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
+
+Looking for new grad positions (Jan 2024) - ML Research, Quant, Software Engineering!
 
 
 ## Experience
@@ -19,8 +21,8 @@ I have a keen interest in a diverse range of areas including Deep Learning, Natu
   <img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left" style="margin-right: 20px">
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
-    <p style="margin-bottom: 2px;"><i> Incoming Autonomous Systems Intern</i></p>
-    <p><i>Summer 2023</i></p>
+    <p style="margin-bottom: 2px;"><i> Autonomous Systems Research Intern</i></p>
+    <p><i>June 2023 - August 2023</i></p>
   </div>
 </div>
 
