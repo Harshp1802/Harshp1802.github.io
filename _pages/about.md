@@ -14,7 +14,7 @@ I have a keen interest and have pursued projects in a diverse range of areas inc
 
 Looking for full-time positions (starting Mar 2024) - ML Research, Software Engineering, Quant!
 
-<p>Delve into my research endeavors on <a href="https://scholar.google.com/citations?user=0fnkYK8AAAAJ" target="_blank">Google Scholar</a>.</p>s
+<p>Delve into my research endeavors on <a href="https://scholar.google.com/citations?user=0fnkYK8AAAAJ" target="_blank">Google Scholar</a>.</p>
 
 ## Experience
 
