@@ -12,8 +12,9 @@ I am currently a graduate student at the University of California, San Diego, pu
 
 I have a keen interest and have pursued projects in a diverse range of areas including Natural Language Processing, Applied ML, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision, Network Science. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
 
-Looking for new grad positions (Jan 2024) - ML Research, Quant, Software Engineering!
+Looking for full-time positions (starting Mar 2024) - ML Research, Software Engineering, Quant!
 
+<p>Delve into my research endeavors on <a href="https://scholar.google.com/citations?user=0fnkYK8AAAAJ" target="_blank">Google Scholar</a>.</p>s
 
 ## Experience
 
@@ -23,7 +24,7 @@ Looking for new grad positions (Jan 2024) - ML Research, Quant, Software Enginee
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Nokia Bell Labs</span></strong></p>
     <p style="margin-bottom: 2px;"><i> Autonomous Systems Research Intern</i></p>
     <p style="margin-bottom: 2px;"><i>June 2023 - August 2023</i></p>
-    <p>Leveraging large language models (LLMs) to enhance Nokia's patent-pending, proprietary MLOps platform for the end-to-end operations of ML-based use cases. Developing innovative task-specific knowledge enrichment strategies, involving automatic retrieval using Langchain and vectorstores, to improve the performance of LLMs in complicated code generation tasks.</p>
+    <p>Leveraging large language models (LLMs) to enhance Nokia's patent-pending, proprietary MLOps platform for the end-to-end operations of ML-based use cases. Developing innovative task-specific knowledge enrichment strategies, involving automatic retrieval using Langchain and vectorstores, to improve the performance of LLMs in complicated code generation tasks. [<u>Manuscript under review at IEEE Transactions on Artificial Intelligence</u>]</p>
   </div>
 </div>
 
