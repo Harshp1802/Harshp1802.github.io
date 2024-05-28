@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Sr. Data Scientist at Lucid Motors | Looking for full-time positions (starting July 2024) - ML Software Engineering/Research,Data Science, Quant!
+### <u> Sr. Data Scientist at Lucid Motors </u>
+### Looking for full-time positions (starting July 2024) - ML Software Engineering/Research, Data Science, Quant!
 
 
 I recently completed my Masters in [Computer Science and Engineering](https://cse.ucsd.edu/) from University of California, San Diego. Prior to joining UCSD, I did my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
