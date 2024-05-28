@@ -8,15 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student at the University of California, San Diego, pursuing my Masters in the Department of [Computer Science and Engineering](https://cse.ucsd.edu/). Prior to joining UCSD, I successfully completed my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My research interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
+Sr. Data Scientist at Lucid Motors | Looking for full-time positions (starting July 2024) - ML Software Engineering/Research,Data Science, Quant!
 
-I have a keen interest and have pursued projects in a diverse range of areas including Natural Language Processing, Applied ML, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision, Network Science. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
 
-Looking for full-time positions (starting Mar 2024) - ML Research, Software Engineering, Quant!
+I recently completed my Masters in [Computer Science and Engineering](https://cse.ucsd.edu/) from University of California, San Diego. Prior to joining UCSD, I did my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
+
+I have a keen interest and have pursued projects in a diverse range of areas including Generative AI, Applied ML, Natural Language Processing, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
 
 <p>Delve into my research endeavors on <a href="https://scholar.google.com/citations?user=0fnkYK8AAAAJ" target="_blank">Google Scholar</a>.</p>
 
 ## Experience
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/lucid.png" alt="Lucid Motors" width="100px" align="left" style="margin-right: 20px">
+  <div>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Lucid Motors</span></strong></p>
+    <p style="margin-bottom: 2px;"><i> Sr. Data Scientist</i></p>
+    <p style="margin-bottom: 2px;"><i>April 2024 - Present</i></p>
+    <p>
+    Joined the team and quickly made remarkable contributions by leading the adoption of Generative AI for automating customer care data analysis. This initiative reduced manual workforce effort by 90%, streamlined operations, and provided valuable insights from customer feedback, resulting in potential significant process improvements.</p>
+    <p>Enabled the transition from rule-based to ML-driven anomaly detection for vehicle fleet security. This enhancement significantly reduced false positives by 50%, simplifying the validation of cybersecurity threats. Proposed and implemented feature importance techniques, which enhanced the explainability and reliability of vehicle security operations.</p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/nokia.png" alt="Nokia Bell Labs" width="100px" align="left" style="margin-right: 20px">
