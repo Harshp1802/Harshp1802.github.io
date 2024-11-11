@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-### <u> Sr. Data Scientist at Lucid Motors </u>
-### Looking for full-time positions (starting July 2024) - ML Software Engineering/Research, Data Science, Quant!
+### <u> ML Engineer at [TikTok USDS](https://usds.tiktok.com/) </u>
+<!-- ### Looking for full-time positions (starting July 2024) - ML Software Engineering/Research, Data Science, Quant! -->
 
 
-I recently completed my Masters in [Computer Science and Engineering](https://cse.ucsd.edu/) from University of California, San Diego. Prior to joining UCSD, I did my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
+I completed my Masters in [Computer Science and Engineering](https://cse.ucsd.edu/) from University of California, San Diego. Prior to joining UCSD, I did my BTech with Honors in Computer Science from [IIT Gandhinagar](https://cs.iitgn.ac.in/). My interests lie in the areas of building technology-driven solutions for real-world applications. I am particularly intrigued by cross-disciplinary research topics and always strive to expand my knowledge and explore new areas.
 
 I have a keen interest and have pursued projects in a diverse range of areas including Generative AI, Applied ML, Natural Language Processing, Reinforcement Learning, Data Science, Bayesian Modeling, Computer Vision. I am passionate about utilizing these fields to create pioneering solutions and actively contribute to the progress of technology and research.
 
@@ -21,11 +21,23 @@ I have a keen interest and have pursued projects in a diverse range of areas inc
 ## Experience
 
 <div style="display: flex; align-items: center;">
+  <img src="../images/tiktok.png" alt="TikTok USDS" width="100px" align="left" style="margin-right: 20px">
+  <div>
+    <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">TikTok</span></strong></p>
+    <p style="margin-bottom: 2px;"><i> Machine Learning Engineer</i></p>
+    <p style="margin-bottom: 2px;"><i>July 2024 - Present</i></p>
+    <p>
+    E-Commerce Risk Control & Security - catching malicious buyers</p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center;">
   <img src="../images/lucid.png" alt="Lucid Motors" width="100px" align="left" style="margin-right: 20px">
   <div>
     <p style="margin-bottom: 6px;"><strong><span style="font-size: 18px;">Lucid Motors</span></strong></p>
     <p style="margin-bottom: 2px;"><i> Sr. Data Scientist</i></p>
-    <p style="margin-bottom: 2px;"><i>April 2024 - Present</i></p>
+    <p style="margin-bottom: 2px;"><i>April 2024 - June 2024</i></p>
     <p>
     Joined the team and quickly made remarkable contributions by leading the adoption of Generative AI for automating customer care data analysis. This initiative reduced manual workforce effort by 90%, streamlined operations, and provided valuable insights from customer feedback, resulting in potential significant process improvements.</p>
     <p>Enabled the transition from rule-based to ML-driven anomaly detection for vehicle fleet security. This enhancement significantly reduced false positives by 50%, simplifying the validation of cybersecurity threats. Proposed and implemented feature importance techniques, which enhanced the explainability and reliability of vehicle security operations.</p>
