@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### <u> ML Engineer at [TikTok USDS](https://usds.tiktok.com/) </u>
+### ML Engineer @ [TikTok USDS](https://usds.tiktok.com/)
 <!-- ### Looking for full-time positions (starting July 2024) - ML Software Engineering/Research, Data Science, Quant! -->
 
 
